@@ -1,40 +1,55 @@
-AlertOps Expert Guidance
+3 Tips for MSPs to Handle Cyber Attacks
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+What Is an MSP Cyber Attack?
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Businesses use MSPs to manage IT infrastructure and other resources. In doing so, businesses outsource the maintenance and care of applications, networks, security, and other aspects of their IT operations to a third-party.
 
-Clarity
+MSPs are becoming key to global organizations across all industries, and the global MSP market looks poised to grow. Research indicates that the global managed services market was worth approximately $107 billion last year. This sector is also expected to generate more than $193 billion in revenues by 2024.
+
+Although MSPs can simplify an organization’s IT operations, they are susceptible to cyber attacks. This is due to the fact that an MSP typically operates in the same way as any other business. So, if an MSP does not properly secure its internal IT infrastructure, its critical data and systems can be exposed by cybercriminals. If an MSP falls victim to a cyberattack, the damage can escalate to the point where it affects both the service provider and its clients.
+
+How Does a Cyber Attack Affect an MSP and Its Clients?
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Cybercriminals can use phishing email, distributed denial-of-service (DDoS), and other types of cyber attacks to disrupt or shut down an MSP’s systems. Comparatively, cybercriminals can launch cyberattacks in which they can illegally access or control an MSP’s sensitive data or systems. In any of these instances, the consequences for an MSP and its customers can be severe.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+If a cybercriminal hampers an MSP’s ability to remotely monitor and manage a customer’s IT infrastructure, the service provider may struggle to fulfill its customer’s IT requirements. In this scenario, the MSP may lose control of its customer’s applications, networks, and systems. The result: the MSP’s customer may lose access to these applications, networks, and systems until the service provider identifies and resolves the issue.
 
-Insightful Notifications
+Along with hindering an MSP’s ability to deliver IT services, a cyber attack can put the critical data of the service provider and its customers in danger. For instance, if an MSP employee clicks on a malicious link in a phishing email, he or she may inadvertently open the door for a cybercriminal to access the service provider’s data and systems. This can lead to a data breach that causes substantial damage to the MSP’s brand reputation and revenues. It can also result in compliance penalties in instances where an MSP does not meet the requirements of the General Data Protection Regulation (GDPR) or other data security mandates.
+
+Tips to Address MSP Cyber Attacks
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Cybercriminals are increasingly targeting MSPs, and service providers must plan accordingly. Fortunately, there are several things that MSPs can do to improve their cybersecurity posture, including:
 
-Conclusion
+1. Teach Employees About Cybersecurity
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Research shows that MSPs and their small and medium-sized business (SMB) customers are often unprepared when it comes to cyber attack planning, management, and mitigation. However, tools and resources are available that can help MSPs launch cybersecurity awareness programs and keep their employees up to date about cyber threats. These tools and resources can also be used to educate SMBs and other MSP customers about cyber attacks and the dangers associated with them.
 
-1 Red Canary 2021 Threat Detection Report
+The U.S. Cybersecurity & Infrastructure Security Agency (CISA) offers guidance to help MSPs and their customers keep pace with current and evolving cyber threats. In addition, MSPs can track cybersecurity news and watch for updates regarding new cyber attacks. As MSPs learn about the cyber threat landscape, they can develop and implement cybersecurity programs designed to stop cyber attacks before they get out of hand. MSPs can use these programs to educate both employees and customers about cyber threats, too.
+
+2. Identify Cyber Risks
+====
+Cyber risk varies based on the size of an MSP, the third-party vendors it works with, and other factors. To determine the level of cyber risk within an MSP, it is paramount for the service provider to conduct an in-depth risk assessment.
+
+The National Institute of Standards and Technology (NIST) offers a framework that MSPs can use to conduct a comprehensive risk assessment. MSPs can use this framework to determine which cyber risks are present and how to close gaps that otherwise enable cybercriminals to penetrate critical data and systems. Furthermore, MSPs can leverage the risk assessment results to prioritize myriad risks and ensure that all data and systems are secure.
+
+3. Find the Right Cybersecurity Tools
+====
+Cybersecurity tools are readily available, and the sheer volume of options available to MSPs can be overwhelming. If MSPs understand the cyber risks they face, they can find tools to guard against these dangers. Plus, MSPs can integrate cybersecurity tools into their everyday operations, teach employees how to utilize these tools, and minimize the risk of cyber attacks that can contribute to data breaches, downtime, and outages.
+
+One of the top response tools available to MSPs today is the AlertOps and ConnectWise Manage integration. MSPs can use this integration to forward ConnectWise Manage tickets to AlertOps as alerts and increase visibility across the ticket lifecycle. They can also leverage the integration to automatically create an alert in AlertOps and a ticket in ConnectWise Manage at the same time, ensure changes are reflected in both AlertOps and ConnectWise Manage any time actions are taken in either platform, and more.
+
+Take Your Cybersecurity to the Next Level
+====
+No organization is immune to cyber attacks, even MSPs. With the proper approach to cybersecurity, MSPs can protect themselves and their customers against cyber threats. MSPs can also leverage cybersecurity tools and resources to stop cyber attacks before they cause long-lasting damage.
+
+At AlertOps, we offer an incident management platform that MSPs can use in combination with ConnectWise Manage to mitigate cyber attacks. With the AlertOps-ConnectWise Manage integration, MSPs can manage notifications and escalations for tickets based on various priorities, resulting in faster cyber attack identification, remediation, and resolution.
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/msp-cyber-attack/
 
 Read more:
 ====
